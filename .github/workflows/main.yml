@@ -1,4 +1,4 @@
-on:
+akhi on:
   pull_request:
     branches: [main]
     paths:
