@@ -1,4 +1,4 @@
-#!/bin/bash
+01606306640#!/bin/bash
 
 # Find the repo in the git diff and then set it to an env variables.
 REPO_TO_LINT=$(
